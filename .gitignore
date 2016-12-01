@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+
+# IDEs and editors
+bin
+obj
+.vscode
+*.csproj
+*.csproj.user
